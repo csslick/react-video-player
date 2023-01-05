@@ -8,4 +8,4 @@
     - Current Position
     - Progress Bar  
     
-![image](https://user-images.githubusercontent.com/24298382/210733068-71669a9a-f035-4a20-a623-7311068e5214.png)
+![image](https://user-images.githubusercontent.com/24298382/210733948-8aacc72f-f465-4f8a-b188-6223355430c2.png)
