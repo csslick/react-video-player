@@ -2,7 +2,7 @@ import React from 'react'
 import style from './Progress.module.css'
 
 function Progress({val}) {
-  let 
+  
   return (
     <>
       <div className={style.progressBox}>
