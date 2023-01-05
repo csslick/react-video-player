@@ -6,5 +6,6 @@
 - 상태표시
     - Duration
     - Current Position
-    - Progress Bar
+    - Progress Bar  
+    
 ![image](https://user-images.githubusercontent.com/24298382/210733068-71669a9a-f035-4a20-a623-7311068e5214.png)
