@@ -2,7 +2,7 @@ import React from 'react'
 import style from './Progress.module.css'
 
 function Progress({val}) {
-  
+
   return (
     <>
       <div className={style.progressBox}>
@@ -10,7 +10,7 @@ function Progress({val}) {
           className={style.bar}
           style={{width: val + '%'}}
         ></div>
-        <small>{val}</small>
+        <small>{val}%</small>
       </div>
     </>
   )

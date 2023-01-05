@@ -46,8 +46,7 @@ function App() {
         src={process.env.PUBLIC_URL + '/media/video01.mp4'}
       ></video>
       
-      <p>duration: {duration.toFixed(1)}s</p>
-      <p>currentTime: {currentTime.toFixed(1)}s</p>
+      <p>{currentTime.toFixed(1)} / {duration.toFixed(1)}</p>
       <Progress 
         val={ 
           // 그래프 진행율

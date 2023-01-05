@@ -1,6 +1,6 @@
 .progressBox {
   margin: 0 auto;
-  width: 100px;
+  width: 100%;
   padding: 3px;
   border: 1px solid #ccc;
   position: relative;
@@ -8,7 +8,7 @@
 
 .progressBox small {
   position: absolute;
-  right: -2rem;
+  right: -2.5rem;
   top: -0.4rem;
 }
 
